@@ -25,7 +25,7 @@
 #### 使用： 在composer.json添加
 
     "require": {
-        "tegic/WeChat": "^1.0.0"
+        "teg1c/wechat": "^1.0.0"
     },
 
 #### 然后(命令行)：
